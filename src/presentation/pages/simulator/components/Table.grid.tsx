@@ -95,7 +95,7 @@ export function TableGrid({}: TableGridProps): JSX.Element {
                       <Then>
                         <Ship
                           degrees={ _getDegrees() }
-                          src='/public/images/ship.png' />
+                          src='./images/ship.png' />
                       </Then>
                     </If>
                   </GridTile>

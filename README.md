@@ -5,4 +5,7 @@ Instructions to run:
 - npm run dev
 
 Access at:
-localhost:3000
+http://localhost:3000
+
+Live demo at:
+https://toyrobotsimulator.web.app
